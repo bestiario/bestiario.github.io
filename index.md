@@ -51,7 +51,7 @@ cta_button_label: contact # the label on the button
 **Bestiario** es una iniciativa motivada por el extraordinario trabajo de la **[Dra. Eddaly Guerra Velasco](https://dgip.unach.mx/index.php/academicos/34-semblanzas-sni-sei/381-eddaly-guerra-velasco)** y el **[Dr. Boris Percino Figeroa](https://www.fcfm.unach.mx/index.php/profesores/cuerpo-academico-de-matematicas)** de la [FCFM de la UNACH](https://www.fcfm.unach.mx/) junto a la reciente colaboración del estudiante de física **Daniel Alberto García Sánchez** quienes a lo largo de dos años **codificaron/esculpieron/imprimieron** más de 43 objetos matemáticos. Ellxs, junto a dos impresoras 3D son lxs creadores de todos los objetos expuestos en este espacio y son lxs promotores y directores del **Laboratorio de Matemáticas** que se encuentra en la [FCFM de la UNACH](https://www.fcfm.unach.mx/).
 
 
- ![](https://drive.google.com/file/d/1yr4NK_2K7J0CfzVuEsw9gilODcsy_t1T/view?usp=drive_link "Logo del Laboratorio")
+ ![](https://drive.google.com/file/d/1yr4NK_2K7J0CfzVuEsw9gilODcsy_t1T/view?usp=drive_link)
 
  
 La curaduría de la exposición así como la creación de este sitio estuvo a cargo de la **[Dra. Eddaly Guerra Velasco](https://dgip.unach.mx/index.php/academicos/34-semblanzas-sni-sei/381-eddaly-guerra-velasco)** el **[Dr. Boris Percino Figeroa](https://www.fcfm.unach.mx/index.php/profesores/cuerpo-academico-de-matematicas)** y la **[Dra. Rosa María Vargas Magaña](rosavargas.github.io/)** quienes indudablemente deseaban compartir a un público más amplio esta extraordinaria labor.
