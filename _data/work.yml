@@ -17,10 +17,10 @@ work:
   - category: Galeria de Nudos Torales
     items:
       - item: example9.html
-        image: /images/LA1.jpg
+        image: /images/Imex9.jpg
       - item: example10.html
-        image: /images/LA2.jpg
+        image: /images/Imex10.jpg
       - item: example11.html
-        image: /images/LA3.jpg
+        image: /images/Imex11.jpg
       - item: example3.html
         image: /images/LA4.jpg
