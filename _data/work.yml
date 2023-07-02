@@ -24,13 +24,13 @@ work:
         image: /images/Imex11.jpg
   - category: Galeria de Fractales
     items:
-      - item: example5.html
-        image: /images/Imex5.jpg 
-      - item: example4.html
-        image: /images/Imex4.jpg 
-      - item: example6.html
-        image: /images/Imex6.jpg
-      - item: example7.html
-        image: /images/Imex7.jpg
-      - item: example8.html
-        image: /images/Imex8b.jpg
+      - item: example12.html
+        image: /images/Imex12.jpg 
+      - item: example13.html
+        image: /images/Imex13.jpg 
+      - item: example14.html
+        image: /images/Imex14.jpg
+      - item: example15.html
+        image: /images/Imex15.jpg
+      - item: example16.html
+        image: /images/Imex16.jpg
