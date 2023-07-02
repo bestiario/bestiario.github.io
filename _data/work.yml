@@ -4,16 +4,16 @@
 work:
   - category: Variedades no orientables
     items:
-      - item: example4.html
-        image: /images/NYC1.jpg # optionally, include the file path for an image for each item
       - item: example5.html
-        image: /images/NYC1.jpg # optionally, include the file path for an image for each item
+        image: /images/Imex5.jpg # optionally, include the file path for an image for each item
+      - item: example4.html
+        image: /images/Imex4.jpg # optionally, include the file path for an image for each item
       - item: example6.html
-        image: /images/NYC2.jpg
+        image: /images/Imex6.jpg
       - item: example7.html
-        image: /images/NYC3.jpg
+        image: /images/Imex7.jpg
       - item: example8.html
-        image: /images/NYC4.jpg
+        image: /images/Imex8.jpg
   - category: Los Angeles
     items:
       - item: example.html
