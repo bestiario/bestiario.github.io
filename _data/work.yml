@@ -14,9 +14,9 @@ work:
         image: /images/Imex7.jpg
       - item: example8.html
         image: /images/Imex8b.jpg
-  - category: Los Angeles
+  - category: Galeria de Nudos Torales
     items:
-      - item: example.html
+      - item: example9.html
         image: /images/LA1.jpg
       - item: example.html
         image: /images/LA2.jpg
