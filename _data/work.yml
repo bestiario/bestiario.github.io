@@ -13,7 +13,7 @@ work:
       - item: example7.html
         image: /images/Imex7.jpg
       - item: example8.html
-        image: /images/Imex8.jpg
+        image: /images/Imex8b.jpg
   - category: Los Angeles
     items:
       - item: example.html
