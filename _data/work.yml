@@ -2,7 +2,7 @@
 # in the root directory
 
 work:
-  - category: Variedades no orientables
+  - category: Galeria de Variedades no orientables
     items:
       - item: example5.html
         image: /images/Imex5.jpg # optionally, include the file path for an image for each item
@@ -14,7 +14,7 @@ work:
         image: /images/Imex7.jpg
       - item: example8.html
         image: /images/Imex8b.jpg
-  - category: Galeria de Nudos Torales
+  - category: Galeria de Nudos torales
     items:
       - item: example9.html
         image: /images/Imex9.jpg
@@ -24,3 +24,15 @@ work:
         image: /images/Imex11.jpg
       - item: example3.html
         image: /images/LA4.jpg
+  - category: Galeria de Fractales
+    items:
+      - item: example5.html
+        image: /images/Imex5.jpg 
+      - item: example4.html
+        image: /images/Imex4.jpg 
+      - item: example6.html
+        image: /images/Imex6.jpg
+      - item: example7.html
+        image: /images/Imex7.jpg
+      - item: example8.html
+        image: /images/Imex8b.jpg
