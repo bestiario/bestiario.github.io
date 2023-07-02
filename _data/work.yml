@@ -22,8 +22,6 @@ work:
         image: /images/Imex10.jpg
       - item: example11.html
         image: /images/Imex11.jpg
-      - item: example3.html
-        image: /images/LA4.jpg
   - category: Galeria de Fractales
     items:
       - item: example5.html
