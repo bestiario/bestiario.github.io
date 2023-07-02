@@ -18,9 +18,9 @@ work:
     items:
       - item: example9.html
         image: /images/LA1.jpg
-      - item: example.html
+      - item: example10.html
         image: /images/LA2.jpg
-      - item: example2.html
+      - item: example11.html
         image: /images/LA3.jpg
       - item: example3.html
         image: /images/LA4.jpg
