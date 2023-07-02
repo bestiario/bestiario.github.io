@@ -8,12 +8,12 @@ work:
         image: /images/Imex5.jpg # optionally, include the file path for an image for each item
       - item: example4.html
         image: /images/Imex4.jpg # optionally, include the file path for an image for each item
-      - item: example6.html
-        image: /images/Imex6.jpg
       - item: example7.html
         image: /images/Imex7.jpg
       - item: example8.html
         image: /images/Imex8b.jpg
+      - item: example6.html
+        image: /images/Imex6.jpg
   - category: Galeria de Nudos torales
     items:
       - item: example9.html
