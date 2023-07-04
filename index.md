@@ -54,7 +54,7 @@ cta_button_label: contact # the label on the button
  # ![](https://drive.google.com/file/d/1yr4NK_2K7J0CfzVuEsw9gilODcsy_t1T/view?usp=drive_link)
 
  
-La curaduría de la exposición así como la creación de este sitio estuvo a cargo de la **[Dra. Eddaly Guerra Velasco](https://dgip.unach.mx/index.php/academicos/34-semblanzas-sni-sei/381-eddaly-guerra-velasco)** el **[Dr. Boris Percino Figeroa](https://www.fcfm.unach.mx/index.php/profesores/cuerpo-academico-de-matematicas)** y la **[Dra. Rosa María Vargas Magaña](rosavargas.github.io/)** quienes indudablemente deseaban compartir a un público más amplio esta extraordinaria labor.
+La curaduría de la exposición así como la creación de este sitio estuvo a cargo de la **[Dra. Eddaly Guerra Velasco](https://dgip.unach.mx/index.php/academicos/34-semblanzas-sni-sei/381-eddaly-guerra-velasco)** el **[Dr. Boris Percino Figeroa](https://www.fcfm.unach.mx/index.php/profesores/cuerpo-academico-de-matematicas)** y la **[Dra. Rosa María Vargas Magaña](https://rosavargas.github.io/)** quienes indudablemente deseaban compartir a un público más amplio esta extraordinaria labor.
 
 **Bestiario Matemático** fue inaugurada en el marco de la **[IV Feria de Ciencias de la FCFM de la UNACH](https://www.facebook.com/radiounachoficial/videos/914581009746969)** celebrada el **31 de marzo de 2023.** Y en el montaje, guía y apoyo logístico días antes, durante, y posterior a esta exposión, los Lic. en Matemáticas **Johana Elizabeth Guillén Morales** y **José David Aguilar Medina** respaldaron en todo momento a los organizadores. [Aquí](https://www.facebook.com/FlightForceDrone/videos/669243995003767) un "footage" del día de la Feria hecho con un dron.
 
